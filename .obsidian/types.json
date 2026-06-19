@@ -1,0 +1,9 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "author_profile": "checkbox",
+    "toc_sticky": "checkbox"
+  }
+}

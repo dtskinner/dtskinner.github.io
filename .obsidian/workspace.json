@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "574636984ba6b185",
+    "type": "split",
+    "children": [
+      {
+        "id": "7999558c9d65ef97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "adc389222c862ff2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_pages/news.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "news"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d5bac0ea73df13b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "4636d2fbc93f3567",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90badce16acb569b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2b89fac5aa6ea19c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d4807b9c47329111",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e87348ca2007f81d",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb83264bb2d2dfdd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9392fe7e3c934d9d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_pages/news.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for news"
+            }
+          },
+          {
+            "id": "0a7d5ac27a74041b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_pages/news.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from news"
+            }
+          },
+          {
+            "id": "0ae1b7afc17678e2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c470b68a8724ebb2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c5a8b40f90742168",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_pages/news.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of news"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "adc389222c862ff2",
+  "lastOpenFiles": [
+    "_pages/index.md",
+    "_pages/news.md",
+    "_pages/publications.md",
+    "_site/index.html",
+    "_site/_pages/index.html",
+    "_site/_pages",
+    "_layouts/my-default.html",
+    "_layouts",
+    "_site/assets/files/CV.pdf",
+    "assets/files/CV.pdf",
+    "_site/assets/files/CV (1).pdf",
+    "_site/assets/files",
+    "assets/files/CV (1).pdf",
+    "index.md",
+    "_pages/contact.md",
+    "_posts/2026-06-19-welcome-my-site.md",
+    "_site/assets/images/Headshot.png",
+    "assets/images/Headshot.png",
+    "_site/assets/images/uk-bristol-bridge.png",
+    "assets/images/uk-bristol-bridge.png",
+    "_pages/about.md",
+    "_site/assets/images/catppuccin_mocha-skin-archive-large.png",
+    "_site/assets/images/catppuccin_latte-skin-archive-large.png",
+    "_pages/Untitled.md"
+  ]
+}

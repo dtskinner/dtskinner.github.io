@@ -45,6 +45,15 @@ author:
   avatar: "/assets/images/Headshot.png"
   bio: "Climate modeller."
   github: "dtskinner"
+  
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -8,15 +8,16 @@ header:
   show_overlay_excerpt: true
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+If you'd like to chat about any of my work, please do get in touch!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+The easiest way to get in touch is via email: 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## Email:  [Dan.Skinner@bristol.ac.uk](mailto:dan.skinner@bristol.ac.uk)
 
 
-[jekyll-organization]: https://github.com/jekyll
+Or, if you're in the area you can find me in the School of Geographical Sciences at the University of Bristol.
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1l-hG6GaRyDa_OviUMyUoIwwLX8dMBbw&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
+
+
+

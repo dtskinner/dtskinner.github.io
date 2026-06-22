@@ -43,14 +43,15 @@ See my [Google Scholar](https://scholar.google.com/citations?user=vbvCz7QAAAAJ&h
 
 ## 2026
 
-- <u><u>Skinner, D. T.</u></u>, H. Heidemann, and Y. Li (2026) __CMIP Community Workshop 2026__, _Weather_. [https://doi.org/10.1002/wea.70084](https://doi.org/10.1002/wea.70084)
+- <u><u>Skinner, D. T.</u></u>, H. Heidemann, and Y. Li (2026) __CMIP Community Workshop 2026__, _Weather_. <br>  [https://doi.org/10.1002/wea.70084](https://doi.org/10.1002/wea.70084)
 
 ## 2024 
 
-- <u>Skinner, D. T.</u> (2024) __Weather in my life: Daniel Skinner__, _Weather_, 79(6) pp. 185. [https://doi.org/10.1002/wea.4580](https://doi.org/10.1002/wea.4580)
+- <u>Skinner, D. T.</u> (2024) __Weather in my life: Daniel Skinner__, _Weather_, 79(6) pp. 185. <br> [https://doi.org/10.1002/wea.4580](https://doi.org/10.1002/wea.4580)
 
 ## 2023
 
-- <u>Skinner, D. T.</u>, and H. Mallinson (2023) __Spotlight on the Youth and Early Career Special Interest Group__, _Weather_, 78(6) pp. 164–165.
-- Bloomfield, H., M. Wright, and <u>D. T. Skinner</u> (2023) __How the Royal Meteorological Society is engaging industry with Weather and Climate Science,__ _The Geographer_ (Royal Scottish Geographical Society), Spring 2023 pp. 34–35.
-- Wright, M., <u>D. T. Skinner</u>, H. Bloomfield and H. Mallinson (2023) __RMetS Climate Change Forum 2022: A Vision for 2050 and Implications for Action__, _Weather_, 78(4) pp. 117–119.
+- <u>Skinner, D. T.</u>, and H. Mallinson (2023) __Spotlight on the Youth and Early Career Special Interest Group__, _Weather_, 78(6) pp. 164–165. <br> [https://doi.org/10.1002/wea.4423](https://doi.org/10.1002/wea.4423)
+- Bloomfield, H., M. Wright, and <u>D. T. Skinner</u> (2023) __How the Royal Meteorological Society is engaging industry with Weather and Climate Science,__ _The Geographer_ (Royal Scottish Geographical Society), Spring 2023 pp. 34–35. <br> [https://www.rsgs.org](https://www.rsgs.org/Handlers/Download.ashx?IDMF=a6c1d3a2-78ac-45f1-bb4c-3093b53ae1c5)
+- Wright, M., <u>D. T. Skinner</u>, H. Bloomfield and H. Mallinson (2023) __RMetS Climate Change Forum 2022: A Vision for 2050 and Implications for Action__, _Weather_, 78(4) pp. 117–119. <br>  [https://doi.org/10.1002/wea.4372](https://doi.org/10.1002/wea.4372)
+

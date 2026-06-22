@@ -2,7 +2,8 @@
 layout: single
 title: Welcome to my new site!
 date: 2026-06-19 14:36:08 +0100
-categories: website update
+tags:
+  - Misc
 ---
 The time had come for a slight restructure of my site, with a clear out of old content and a revamp of the layout! I am therefore very pleased to welcome you to __DrDanSkinner.co.uk__.
 

@@ -37,6 +37,14 @@ plugins:
   
 include: 
   - "_pages"
+  
+  
+author:
+  name: "Dan Skinner"
+  email: "dan.skinner@bristol.ac.uk"
+  avatar: "/assets/images/Headshot.png"
+  bio: "Climate modeller."
+  github: "dtskinner"
 
 # Exclude from processing.
 # The following items will not be processed, by default.

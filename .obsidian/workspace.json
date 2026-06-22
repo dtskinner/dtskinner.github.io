@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/research.md",
+                "file": "_pages/contact.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "research"
+              "title": "contact"
             }
           }
         ]
@@ -185,8 +185,8 @@
   },
   "active": "adc389222c862ff2",
   "lastOpenFiles": [
-    "_pages/index.md",
     "_pages/research.md",
+    "_pages/index.md",
     "_pages/publications (copy).md",
     "_pages/news.md",
     "_drafts/YYYY-MM-DD-NEW_PAPER_TEMPLATE.md",

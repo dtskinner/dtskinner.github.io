@@ -12,7 +12,7 @@ If you'd like to chat about any of my work, please do get in touch!
 
 The easiest way to get in touch is via email: 
 
-## Email:  [Dan.Skinner@bristol.ac.uk](mailto:dan.skinner@bristol.ac.uk)
+# Email:  [Dan.Skinner@bristol.ac.uk](mailto:dan.skinner@bristol.ac.uk)
 
 
 Or, if you're in the area you can find me in the School of Geographical Sciences at the University of Bristol.

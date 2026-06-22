@@ -38,6 +38,9 @@ See my [Google Scholar](https://scholar.google.com/citations?user=vbvCz7QAAAAJ&h
 - <u>Skinner, D. T.</u>, A. J. Matthews, and D. P. Stevens (2022) __North Atlantic Oscillation response to the Madden–Julian Oscillation in a coupled climate model__, _Weather_, 77(6) pp. 201–205.  <br> [https://doi.org/10.1002/wea.4215](https://doi.org/10.1002/wea.4215)
 
 
+<br>
+<br>
+<br>
 
 # Other publications
 

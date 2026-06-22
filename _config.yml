@@ -45,6 +45,14 @@ author:
   avatar: "/assets/images/Headshot.png"
   bio: "Climate modeller."
   github: "dtskinner"
+  location: "Bristol, UK"
+  links:
+    - label: "ORCID"
+      url: "https://orcid.org/0000-0002-0086-5958"
+      icon: "fa-brands fa-orcid"
+    - label: "Google Scholar"
+      url: "https://scholar.google.com/citations?user=vbvCz7QAAAAJ&hl=en"
+      icon: "fa-brands fa-google-scholar"
   
 defaults:
   # _pages

@@ -7,7 +7,7 @@ toc_label: Publications
 toc_icon: table-list
 toc_sticky: true
 header:
-  overlay_image: assets/images/uk-bristol-bridge.png
+  overlay_image: assets/images/papers.jpg
   overlay_filter: 0.5
   show_overlay_excerpt: true
 ---

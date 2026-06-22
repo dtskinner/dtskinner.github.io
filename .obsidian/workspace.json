@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_drafts/YYYY-MM-DD-NEW_PAPER_TEMPLATE.md",
+                "file": "_pages/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "YYYY-MM-DD-NEW_PAPER_TEMPLATE"
+              "title": "index"
             }
           }
         ]
@@ -185,8 +185,9 @@
   },
   "active": "adc389222c862ff2",
   "lastOpenFiles": [
-    "_drafts/YYYY-MM-DD-QJ_paper_PROMS.md",
+    "_pages/news.md",
     "_drafts/YYYY-MM-DD-NEW_PAPER_TEMPLATE.md",
+    "_drafts/YYYY-MM-DD-QJ_paper_PROMS.md",
     "_drafts/YYYY-MM-DD-QJ_paper_PROMS (another copy).md",
     "_drafts/YYYY-MM-DD-QJ_paper_PROMS (copy).md",
     "_pages/contact.md",
@@ -194,7 +195,6 @@
     "_drafts",
     "_pages/publications.md",
     "_posts/2026-06-19-welcome-my-site.md",
-    "_pages/news.md",
     "assets/images/papers.jpeg",
     "assets/images/AdobeStock_35103305.jpeg",
     "assets/images/papers.jpg",

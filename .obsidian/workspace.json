@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/index.md",
+                "file": "_pages/research.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "research"
             }
           }
         ]
@@ -185,6 +185,9 @@
   },
   "active": "adc389222c862ff2",
   "lastOpenFiles": [
+    "_pages/index.md",
+    "_pages/research.md",
+    "_pages/publications (copy).md",
     "_pages/news.md",
     "_drafts/YYYY-MM-DD-NEW_PAPER_TEMPLATE.md",
     "_drafts/YYYY-MM-DD-QJ_paper_PROMS.md",
@@ -201,7 +204,6 @@
     "assets/images/Unconfirmed 458754.crdownload",
     "_site/CNAME",
     "CNAME",
-    "_pages/index.md",
     "_site/index.html",
     "_site/_pages/index.html",
     "_site/_pages",

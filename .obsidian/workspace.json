@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/news.md",
+                "file": "_pages/publications.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "news"
+              "title": "publications"
             }
           }
         ]
@@ -185,6 +185,8 @@
   },
   "active": "adc389222c862ff2",
   "lastOpenFiles": [
+    "_posts/2026-06-19-welcome-my-site.md",
+    "_pages/news.md",
     "assets/images/papers.jpeg",
     "assets/images/AdobeStock_35103305.jpeg",
     "assets/images/papers.jpg",
@@ -192,7 +194,6 @@
     "_site/CNAME",
     "CNAME",
     "_pages/index.md",
-    "_pages/news.md",
     "_pages/publications.md",
     "_site/index.html",
     "_site/_pages/index.html",
@@ -203,7 +204,6 @@
     "assets/files/CV.pdf",
     "index.md",
     "_pages/contact.md",
-    "_posts/2026-06-19-welcome-my-site.md",
     "_site/assets/images/Headshot.png",
     "assets/images/Headshot.png",
     "_site/assets/images/uk-bristol-bridge.png",

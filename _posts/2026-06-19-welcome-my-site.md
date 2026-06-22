@@ -4,8 +4,6 @@ title: Welcome to my new site!
 date: 2026-06-19 14:36:08 +0100
 categories: website update
 ---
-# Welcome to my new website!
-
 The time had come for a slight restructure of my site, with a clear out of old content and a revamp of the layout! I am therefore very pleased to welcome you to __DrDanSkinner.co.uk__.
 
 As part of this restructuring I have added a [__News__](/news/) page, which will feature blog-style posts about new publications, events I have attended, and other research updates.

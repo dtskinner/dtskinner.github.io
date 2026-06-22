@@ -22,10 +22,10 @@ description: >- # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 url: "https://drdanskinner.co.uk/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  dtskinner
+repository: dtskinner/dtskinner.github.io
 
 lsi: false
 safe: true
-source: /_site
 incremental: false
 highlighter: rouge
 gist:
@@ -41,6 +41,7 @@ minimal_mistakes_skin: "air"
 plugins:
   - jekyll-feed
   - jekyll-target-blank
+  - include-cache
 
 
 include: ["_pages"]

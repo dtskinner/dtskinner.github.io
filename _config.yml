@@ -30,6 +30,7 @@ github_username:  dtskinner
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.28.0"
+minimal_mistakes_skin: "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
@@ -41,18 +42,31 @@ include:
   
 author:
   name: "Dan Skinner"
-  email: "dan.skinner@bristol.ac.uk"
   avatar: "/assets/images/Headshot.png"
   bio: "Climate modeller."
-  github: "dtskinner"
   location: "Bristol, UK"
   links:
+    - label: "Email"
+      url: "mailto:dan.skinner@bristol.ac.uk"
+      icon: "fa-solid fa-square-envelope"
+    - label: "University of Bristol"
+      url: "https://research-information.bris.ac.uk/en/persons/dan-skinner/"
+      icon: "fa-solid fa-building-columns"
+    - label: "GitHub"
+      url: "https://github.com/dtskinner"
+      icon: "fa-brands fa-square-github"
     - label: "ORCID"
       url: "https://orcid.org/0000-0002-0086-5958"
       icon: "fa-brands fa-orcid"
     - label: "Google Scholar"
       url: "https://scholar.google.com/citations?user=vbvCz7QAAAAJ&hl=en"
       icon: "fa-brands fa-google-scholar"
+    - label: "LinkedIn"
+      url: ""
+      icon: "fa-brands fa-linkedin"
+    - label: "BlueSky"
+      url: ""
+      icon: "fa-brands fa-square-bluesky"
   
 defaults:
   # _pages

@@ -15,6 +15,11 @@ header:
 # Peer-reviewed research papers
 
 See my [Google Scholar](https://scholar.google.com/citations?user=vbvCz7QAAAAJ&hl=en&oi=ao){:target="_blank"} profile for more details!
+
+## _In review_
+
+- <u><u>Skinner, D. T.</u></u>, C. Robbins, G. N. Inglis, M. Joshi, P. Langdon, A. J. Matthews, M. Peaple, T. J. Osborn, and D. A. Sear (2026) __Decadal-scale drivers of South Pacific hydroclimate variability__, _Quarterly Journal of the Royal Meteorological Society_.
+
 ## 2026
 
 - <u><u>Skinner, D. T.</u></u>, H. Heidemann, and Y. Li (2026) __CMIP Community Workshop 2026__, _Weather_. <br>  [https://doi.org/10.1002/wea.70084](https://doi.org/10.1002/wea.70084)
@@ -29,6 +34,7 @@ See my [Google Scholar](https://scholar.google.com/citations?user=vbvCz7QAAAAJ&h
 
 
 - <u><u>Skinner, D. T.</u></u>, A. J. Matthews & Stevens, D.P. (2025) __Decadal variability of Madden–Julian oscillation teleconnections in a coupled climate model__ _Quarterly Journal of the Royal Meteorological Society_, 151(773) pp. e5071. <br>  [https://doi.org/10.1002/qj.5071](https://doi.org/10.1002/qj.5071)
+
 ## 2024 
 
 - <u>Skinner, D. T.</u> (2024) __Weather in my life: Daniel Skinner__, _Weather_, 79(6) pp. 185. <br> [https://doi.org/10.1002/wea.4580](https://doi.org/10.1002/wea.4580)

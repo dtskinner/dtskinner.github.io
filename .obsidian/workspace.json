@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/publications.md",
+                "file": "_pages/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "publications"
+              "title": "index"
             }
           }
         ]
@@ -185,9 +185,9 @@
   },
   "active": "adc389222c862ff2",
   "lastOpenFiles": [
+    "_pages/publications.md",
     "_pages/research.md",
     "_pages/sci_comms.md",
-    "_pages/publications.md",
     "_pages/index.md",
     "_layouts/my_default.html",
     "_site/assets/css/styles.css",

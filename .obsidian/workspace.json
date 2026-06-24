@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/index.md",
+                "file": "_pages/publications.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "publications"
             }
           }
         ]
@@ -186,20 +186,20 @@
   "active": "adc389222c862ff2",
   "lastOpenFiles": [
     "_pages/research.md",
+    "_pages/sci_comms.md",
+    "_pages/publications.md",
+    "_pages/index.md",
+    "_layouts/my_default.html",
     "_site/assets/css/styles.css",
     "_site/sci_comms/index.html",
     "_site/sci_comms",
     "_sass/_site/main.scss",
     "_sass/_site",
-    "_pages/publications.md",
     "_sass/main.scss",
     "assets/css/styles.scss",
     "assets/css",
     "_includes/navigation.html",
-    "_layouts/default.html",
-    "_pages/sci_comms.md",
     "_pages/contact.md",
-    "_pages/index.md",
     "_pages/news.md",
     "assets/images/external.svg",
     "assets/images/Headshot.png",

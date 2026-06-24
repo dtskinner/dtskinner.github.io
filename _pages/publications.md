@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: my_default
 title: Publications
 permalink: /publications/
 toc: true

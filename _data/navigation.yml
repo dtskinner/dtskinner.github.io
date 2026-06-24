@@ -3,6 +3,8 @@ main:
     url: /research/
   - title: "Publications"
     url: /publications/
+  - title: "Science Communication"
+    url: /sci_comms/
   - title: "News"
     url: /news/
   - title: "CV"

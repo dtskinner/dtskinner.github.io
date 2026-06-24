@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/publications.md",
+                "file": "_pages/sci_comms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "publications"
+              "title": "sci_comms"
             }
           }
         ]
@@ -185,16 +185,17 @@
   },
   "active": "adc389222c862ff2",
   "lastOpenFiles": [
+    "_pages/research.md",
+    "_pages/sci_comms.md",
+    "_pages/publications.md",
+    "_pages/contact.md",
+    "_pages/index.md",
+    "_pages/news.md",
     "assets/images/external.svg",
     "assets/images/Headshot.png",
     "assets/images/papers.jpeg",
     "assets/images/uk-bristol-bridge.png",
     "_posts/2026-06-19-welcome-my-site.md",
-    "_pages/publications.md",
-    "_pages/research.md",
-    "_pages/index.md",
-    "_pages/contact.md",
-    "_pages/news.md",
     "_drafts/YYYY-MM-DD-NEW_PAPER_TEMPLATE.md",
     "_site/2026/06/19/welcome-my-site.html",
     "_site/2026/06/19",
@@ -220,7 +221,6 @@
     "assets/images/papers.jpg",
     "index.md",
     "_site/assets/images/Headshot.png",
-    "_site/assets/images/uk-bristol-bridge.png",
     "_pages/about.md",
     "_pages/Untitled.md"
   ]

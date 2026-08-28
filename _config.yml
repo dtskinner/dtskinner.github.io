@@ -63,11 +63,11 @@ author:
       url: "https://scholar.google.com/citations?user=vbvCz7QAAAAJ&hl=en"
       icon: "fa-brands fa-google-scholar"
     - label: "LinkedIn"
-      url: ""
+      url: "https://www.linkedin.com/in/danielskinnerresearcher/"
       icon: "fa-brands fa-linkedin"
-    - label: "BlueSky"
-      url: ""
-      icon: "fa-brands fa-square-bluesky"
+#    - label: "BlueSky"
+#      url: ""
+#      icon: "fa-brands fa-square-bluesky"
   
 defaults:
   # _pages

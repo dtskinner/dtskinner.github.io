@@ -11,8 +11,9 @@ header:
 excerpt: __Climate modeller__ <br /> <small>BRIDGE</small> <br> <small>School of Geographical Sciences</small> <br> <small>University of Bristol</small>
 ---
 # Hi, I'm Dan!
+<img style="float: right;" src="assets/images/Headshot.png">
+***I'm climate modeller at the University of Bristol, working with the HadCM3B-ESM model to study detection and attribution, with particular focus on human health impacts.***
 
-I'm climate modeller at the University of Bristol, working with the HadCM3B-ESM model to study detection and attribution, with particular focus on human health impacts.
+My current work forms part of the wider [BREATHE](_pages/research#BREATHE) project, a large consortium studying the attribution of climate-related health outcomes to human emissions. 
 
-<img style="float: right;" src="/assets/images/Headshot.jpg">
-
+Whilst I currently work with the HadCM3B-ESM model at the University of Bristol, I also have experience running the IGCM4 model at the University of East Anglia where I spent a number of years. 

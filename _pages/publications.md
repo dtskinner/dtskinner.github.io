@@ -20,7 +20,7 @@ See my [Google Scholar](https://scholar.google.com/citations?user=vbvCz7QAAAAJ&h
 
 ## 2026
 
-- __Skinner, D. T.__, H. Heidemann, and Y. Li; [CMIP Community Workshop 2026](https://doi.org/10.1002/wea.70084), _Weather_.
+- __Skinner, D. T.__, H. Heidemann, and Y. Li; [CMIP Community Workshop 2026](https://doi.org/10.1002/wea.70084), _Weather_, 81(7) pp. 204–204.
 
 - Sear, D., M. Peaple, P. Langdon, __D. T. Skinner__, M. Joshi, A. J. Matthews, C. Hipkiss, T. J. Osborn, G. N. Inglis, and J. Sheffield; [How did a changing climate in the tropical South Pacific contribute to the eastward migration and settlement of Polynesia?](https://doi.org/10.70460/jpa.v16i2.399) _Journal of Pacific Archaeology_, 16(2), 5.
 
@@ -29,9 +29,9 @@ See my [Google Scholar](https://scholar.google.com/citations?user=vbvCz7QAAAAJ&h
 
 ## 2025
 
-- __Skinner, D. T.__, M. Peaple, G. N. Inglis, M. Joshi, P. Langdon, A. J. Matthews, T. J. Osborn & D. Sear; [Ocean variability drives a millennial-scale shift in South Pacific hydroclimate](https://doi.org/10.1038/s43247-025-02676-5) _Communications Earth & Environment_, 6 pp. 679.
+- __Skinner, D. T.__, M. Peaple, G. N. Inglis, M. Joshi, P. Langdon, A. J. Matthews, T. J. Osborn & D. Sear; [Ocean variability drives a millennial-scale shift in South Pacific hydroclimate](https://doi.org/10.1038/s43247-025-02676-5) _Communications Earth & Environment_, 6, 679.
 
-- __Skinner, D. T.__, A. J. Matthews & Stevens, D.P.; [Decadal variability of Madden–Julian oscillation teleconnections in a coupled climate model](https://doi.org/10.1002/qj.5071) _Quarterly Journal of the Royal Meteorological Society_, 151(773) pp. e5071.
+- __Skinner, D. T.__, A. J. Matthews & Stevens, D.P.; [Decadal variability of Madden–Julian oscillation teleconnections in a coupled climate model](https://doi.org/10.1002/qj.5071) _Quarterly Journal of the Royal Meteorological Society_, 151(773), e5071.
 
 
 ## 2024
@@ -41,7 +41,7 @@ See my [Google Scholar](https://scholar.google.com/citations?user=vbvCz7QAAAAJ&h
 
 ## 2023
 
-- __Skinner, D. T.__, A. J. Matthews, and D. P. Stevens; [Decadal variability of the extratropical response to the Madden–Julian Oscillation](https://doi.org/10.1029/2023GL104576), _Geophysical Research Letters_, 50 pp. e2023GL104576.
+- __Skinner, D. T.__, A. J. Matthews, and D. P. Stevens; [Decadal variability of the extratropical response to the Madden–Julian Oscillation](https://doi.org/10.1029/2023GL104576), _Geophysical Research Letters_, 50, e2023GL104576.
 
 - __Skinner, D. T.__, and H. Mallinson; [Spotlight on the Youth and Early Career Special Interest Group](https://doi.org/10.1002/wea.4423), _Weather_, 78(6) pp. 164–165.
 

@@ -9,6 +9,7 @@ header:
   overlay_filter: 0.5
   show_overlay_excerpt: true
 excerpt: __Climate modeller__ <br /> <small>BRIDGE</small> <br> <small>School of Geographical Sciences</small> <br> <small>University of Bristol</small>
+title: Dr Dan Skinner
 ---
 # Hi, I'm Dan!
 <img style="float: right;" src="assets/images/Headshot.png">

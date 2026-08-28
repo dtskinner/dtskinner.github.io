@@ -6,7 +6,7 @@ cssclasses:
 author_profile: true
 header:
   overlay_image: assets/images/uk-bristol-bridge.png
-  overlay_filter: 0.5
+  overlay_filter: 0.3
   show_overlay_excerpt: true
 excerpt: __Climate modeller.__
 title: Dr Dan Skinner

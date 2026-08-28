@@ -12,13 +12,12 @@ excerpt: __Climate modeller.__
 title: Dr Dan Skinner
 ---
 # Hi, I'm Dan!
-<img style="float: right;width:400" src="assets/images/cornwall.jpeg">
+<img style="float: right;width:400px" src="assets/images/cornwall.jpeg">
 ***I'm climate scientist at the University of Bristol, working with the HadCM3B-ESM model to study detection and attribution, with particular focus on human health impacts.***
 
 My current work forms part of the wider [BREATHE](_pages/research/#BREATHE) project, a large consortium studying the attribution of climate-related health outcomes to human emissions. 
 
 Whilst I currently work with the HadCM3B-ESM model at the University of Bristol, I also have experience running the IGCM4 model at the University of East Anglia where I spent a number of years. 
 
-<span style="text-align:center;">
-{% include button.html button_name="Find out more" button_class="outline-primary" url="/research" %} {% include button.html button_name="Get in touch" button_class="outline-primary" url="contact" %}
-<\span>
+<div style="text-align:center;">
+{% include button.html button_name="Find out more" button_class="outline-primary" url="/research" %} {% include button.html button_name="Get in touch" button_class="outline-primary" url="contact" %}</div>

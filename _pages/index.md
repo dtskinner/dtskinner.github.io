@@ -19,4 +19,6 @@ My current work forms part of the wider [BREATHE](_pages/research/#BREATHE) proj
 
 Whilst I currently work with the HadCM3B-ESM model at the University of Bristol, I also have experience running the IGCM4 model at the University of East Anglia where I spent a number of years. 
 
+<span style="text-align:center;">
 {% include button.html button_name="Find out more" button_class="outline-primary" url="/research" %} {% include button.html button_name="Get in touch" button_class="outline-primary" url="contact" %}
+</span>

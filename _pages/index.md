@@ -21,4 +21,4 @@ Whilst I currently work with the HadCM3B-ESM model at the University of Bristol,
 
 <span style="text-align:center;">
 {% include button.html button_name="Find out more" button_class="outline-primary" url="/research" %} {% include button.html button_name="Get in touch" button_class="outline-primary" url="contact" %}
-</span>
+<\span>

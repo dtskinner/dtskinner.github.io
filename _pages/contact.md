@@ -3,7 +3,7 @@ layout: single
 title: Contact me
 permalink: /contact/
 header:
-  overlay_image: assets/images/uk-bristol-bridge.png
+  overlay_image: assets/images/bristol-houses.jpg
   overlay_filter: 0.5
   show_overlay_excerpt: true
 ---

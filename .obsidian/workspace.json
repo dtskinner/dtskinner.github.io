@@ -185,8 +185,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "90badce16acb569b",
+  "active": "adc389222c862ff2",
   "lastOpenFiles": [
+    "assets/images/cornwall.jpeg",
     "_includes/button.html",
     "_pages/publications.md",
     "_pages/research.md",
@@ -206,7 +207,6 @@
     "_sass/main.scss",
     "assets/css/styles.scss",
     "assets/css",
-    "_includes/navigation.html",
     "assets/images/external.svg",
     "assets/images/Headshot.png",
     "assets/images/papers.jpeg",

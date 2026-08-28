@@ -12,7 +12,7 @@ excerpt: __Climate modeller.__
 title: Dr Dan Skinner
 ---
 # Hi, I'm Dan!
-
+<img style="float: right;width:400" src="assets/images/cornwall.jpeg">
 ***I'm climate scientist at the University of Bristol, working with the HadCM3B-ESM model to study detection and attribution, with particular focus on human health impacts.***
 
 My current work forms part of the wider [BREATHE](_pages/research/#BREATHE) project, a large consortium studying the attribution of climate-related health outcomes to human emissions. 

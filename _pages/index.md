@@ -38,7 +38,7 @@ Whilst I currently work with the HadCM3B-ESM model at the University of Bristol,
   </p>
   
   <div class="news-excerpt" style="font-size: 0.95rem; line-height: 1.5; margin-bottom: 15px;">
-    {{ latest_post.excerpt | strip_html | truncatewords: 30 }}
+    {{ latest_post.excerpt | strip_html | truncatewords: 20 }}
   </div>
   
   <a href="{{ latest_post.url | relative_url }}" class="read-more" style="display: inline-block; font-weight: bold; color: #d32f2f; text-decoration: none; font-size: 0.9rem;">

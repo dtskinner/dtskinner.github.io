@@ -23,10 +23,10 @@ Whilst I currently work with the HadCM3B-ESM model at the University of Bristol,
 {% include button.html button_name="Find out more" button_class="large" url="/research" %}        {% include button.html button_name="Get in touch" button_class="large" url="contact" %}
 </div>
 
-{% assign event_posts = site.tags.Events %}
+{% assign event_posts = site.categories.Events %}
 {% assign latest_event = event_posts.first %}
 
-{% assign paper_posts = site.tags.Papers %}
+{% assign paper_posts = site.categories.Papers %}
 {% assign latest_paper = paper_posts.first %}
 
 <div class="news-grid-container" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">

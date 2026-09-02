@@ -34,7 +34,7 @@ Whilst I currently work with the HadCM3B-ESM model at the University of Bristol,
   </h3>
   
   <p class="news-date" style="color: #666; font-size: 0.85rem; margin-bottom: 12px;">
-    Published on {{ latest_post.date | date: "%d %B %Y" }}
+    Published on {{ latest_post.date | date_to_long_string: "ordinal" }}
   </p>
   
   <div class="news-excerpt" style="font-size: 0.95rem; line-height: 1.5; margin-bottom: 15px;">

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/index.md",
+                "file": "_posts/2026-09-02-QJ_paper_PROMS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "2026-09-02-QJ_paper_PROMS"
             }
           }
         ]
@@ -187,9 +187,13 @@
   },
   "active": "adc389222c862ff2",
   "lastOpenFiles": [
+    "_drafts/YYYY-MM-DD-NEW_PAPER_TEMPLATE.md",
+    "_pages/index.md",
+    "_drafts/YYYY-MM-DD-NCIRA-meeting-Leeds.md",
+    "_posts/2026-09-02-QJ_paper_PROMS.md",
+    "_posts/2026-06-19-welcome-my-site.md",
     "_pages/publications.md",
     "_pages/contact.md",
-    "_pages/index.md",
     "assets/images/bristol_houses.jpg",
     "assets/images/mikey-harris-julE5PYPHFI-unsplash.jpg",
     "assets/images/cornwall.jpeg",
@@ -198,7 +202,6 @@
     "assets/images/Headshot.md",
     "_pages/news.md",
     "_posts/2026-07-03-BREATHE-in-Bristol.md",
-    "_posts/2026-06-19-welcome-my-site.md",
     "_pages/sci_comms.md",
     "_layouts/my_default.html",
     "_site/assets/css/styles.css",
@@ -213,8 +216,6 @@
     "assets/images/Headshot.png",
     "assets/images/papers.jpeg",
     "assets/images/uk-bristol-bridge.png",
-    "_drafts/YYYY-MM-DD-NEW_PAPER_TEMPLATE.md",
-    "_drafts/YYYY-MM-DD-QJ_paper_PROMS.md",
     "Untitled.canvas",
     "2026-06-22.md",
     "_site/assets/images/papers.jpeg",

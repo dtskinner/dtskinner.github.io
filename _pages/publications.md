@@ -14,11 +14,13 @@ header:
 
 See my [Google Scholar](https://scholar.google.com/citations?user=vbvCz7QAAAAJ&hl=en&oi=ao){:target="_blank"} profile for more details!
 
-## _In review_
-
-- __Skinner, D. T.__, C. Robbins, G. N. Inglis, M. Joshi, P. Langdon, A. J. Matthews, M. Peaple, T. J. Osborn, and D. A. Sear; <u>Decadal-scale drivers of South Pacific hydroclimate variability</u>, _Quarterly Journal of the Royal Meteorological Society_.
+% ## _In review_
+%
+%
 
 ## 2026
+
+- __Skinner, D. T.__, C. Robbins, G. N. Inglis, M. Joshi, P. Langdon, A. J. Matthews, M. Peaple, T. J. Osborn, and D. A. Sear; <u>Decadal-scale drivers of South Pacific hydroclimate variability</u>, _Quarterly Journal of the Royal Meteorological Society_. Accpted for publication.
 
 - __Skinner, D. T.__, H. Heidemann, and Y. Li; [CMIP Community Workshop 2026](https://doi.org/10.1002/wea.70084), _Weather_, 81(7) pp. 204–204.
 

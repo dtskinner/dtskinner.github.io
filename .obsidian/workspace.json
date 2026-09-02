@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/contact.md",
+                "file": "_pages/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "contact"
+              "title": "index"
             }
           }
         ]
@@ -187,15 +187,15 @@
   },
   "active": "adc389222c862ff2",
   "lastOpenFiles": [
+    "_pages/publications.md",
+    "_pages/contact.md",
     "_pages/index.md",
     "assets/images/bristol_houses.jpg",
     "assets/images/mikey-harris-julE5PYPHFI-unsplash.jpg",
     "assets/images/cornwall.jpeg",
     "_includes/button.html",
-    "_pages/publications.md",
     "_pages/research.md",
     "assets/images/Headshot.md",
-    "_pages/contact.md",
     "_pages/news.md",
     "_posts/2026-07-03-BREATHE-in-Bristol.md",
     "_posts/2026-06-19-welcome-my-site.md",

@@ -17,7 +17,7 @@
             {% if link.children %}
               <!-- Dropdown Container -->
               <li class="masthead__menu-item dropdown">
-                <a href="{{ link.url | relative_url }}" class="dropdown-toggle" tabindex="0">{{ link.title }} &#9662;</a>
+                <div tabindex="0">{{ link.title }} &#9662;</div>
                 <ul class="dropdown-menu">
                   {% for child in link.children %}
                     <li><a href="{{ child.url | relative_url }}">{{ child.title }}</a></li>

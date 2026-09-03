@@ -7,6 +7,7 @@ $max-width: max(1200px, calc(100vw - 500px));
 
 /* 2. Import the main theme stylesheet last */
 @import "minimal-mistakes";
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 
 
 .responsive-img {

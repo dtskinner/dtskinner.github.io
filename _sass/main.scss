@@ -1,31 +1,5 @@
----
-# Only the main Sass file needs front matter block
----
-
-@import "minimal-mistakes/variables"; // Import original variables first
-
-/* Override the default 1280px width */
-$max-width: calc(100vw - 200px); 
-
-@import "minimal-mistakes"; // Import the rest of the theme
-
-
-
 .current {
   color: green;
 }
 
-.responsive-img {
-  display: block;
-  margin: 0 auto;
-  max-width: 100%;
-  height: auto;
-}
- 
-@media (min-width: 768px) {
-  .responsive-img {
-    float: right;
-    margin: 0 0 15px 20px;
-    max-width: 50%;
-  }
-}
+

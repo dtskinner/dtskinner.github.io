@@ -13,7 +13,7 @@ $max-width: max(1200px, calc(100vw - 500px));
 
 .responsive-img {
   display: block;
-  margin: 0 auto;
+  margin: 0 auto 15px auto;
   max-width: 50%;
   height: auto;
 }

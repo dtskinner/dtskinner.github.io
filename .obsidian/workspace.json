@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/res_proms.md",
+                "file": "_pages/res_phd.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "res_proms"
+              "title": "res_phd"
             }
           }
         ]
@@ -187,6 +187,7 @@
   },
   "active": "adc389222c862ff2",
   "lastOpenFiles": [
+    "_pages/res_proms.md",
     "_site/papers/2026/09/02/QJ_paper_PROMS.html",
     "_site/papers/2026/09/02",
     "_site/papers/2026/09",
@@ -197,7 +198,6 @@
     "_site/events/2026/06",
     "_site/events/2026",
     "_site/events",
-    "_site/assets/js/vendor/jquery/jquery-3.6.0.js",
     "_site/assets/images/catppuccin_mocha-skin-archive-large.png",
     "_site/assets/images/catppuccin_latte-skin-archive-large.png",
     "_site/assets/images/uk-bristol-bridge.png",
@@ -210,7 +210,6 @@
     "_site/assets/images/Headshot.png",
     "_pages/res_phd.md",
     "_pages/res_breathe.md",
-    "_pages/res_proms.md",
     "_pages/index.md",
     "_pages/BREATHE (another copy).md",
     "_pages/BREATHE (copy).md",

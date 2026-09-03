@@ -1,6 +1,12 @@
 main:
-  - title: "Research"
-    url: /research/
+  - title: Research
+    children:
+      - title: BREATHE
+        url: /res_breathe/
+      - title: PROMS
+        url: /res_proms/
+      - title: PhD
+        url: /res_phd/
   - title: "Publications"
     url: /publications/
   - title: "Science Communication"

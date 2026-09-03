@@ -121,25 +121,59 @@
           
         </a>
         <ul class="visible-links">
-<li class="masthead__menu-item">
-              <a href="/research/">Research</a>
-            </li>
-<li class="masthead__menu-item">
-              <a href="/publications/">Publications</a>
-            </li>
-<li class="masthead__menu-item">
-              <a href="/sci_comms/">Science Communication</a>
-            </li>
-<li class="masthead__menu-item">
-              <a href="/news/">News</a>
-            </li>
-<li class="masthead__menu-item">
-              <a href="/assets/files/CV.pdf" target="_blank">CV</a>
-            </li>
-<li class="masthead__menu-item">
-              <a href="/contact/">Contact me</a>
-            </li>
-</ul>
+          
+            
+              <!-- Dropdown Container -->
+              <li class="masthead__menu-item dropdown">
+                <a href="" class="dropdown-toggle" tabindex="0">Research ▾</a>
+                <ul class="dropdown-menu">
+                  
+                    <li><a href="/res_breathe/">BREATHE</a></li>
+                  
+                    <li><a href="/res_proms/">PROMS</a></li>
+                  
+                    <li><a href="/res_phd/">PhD</a></li>
+                  
+                </ul>
+              </li>
+            
+          
+            
+              <!-- Regular Link -->
+              <li class="masthead__menu-item">
+                <a href="/publications/">Publications</a>
+              </li>
+            
+          
+            
+              <!-- Regular Link -->
+              <li class="masthead__menu-item">
+                <a href="/sci_comms/">Science Communication</a>
+              </li>
+            
+          
+            
+              <!-- Regular Link -->
+              <li class="masthead__menu-item">
+                <a href="/news/">News</a>
+              </li>
+            
+          
+            
+              <!-- Regular Link -->
+              <li class="masthead__menu-item">
+                <a href="/assets/files/CV.pdf">CV</a>
+              </li>
+            
+          
+            
+              <!-- Regular Link -->
+              <li class="masthead__menu-item">
+                <a href="/contact/">Contact me</a>
+              </li>
+            
+          
+        </ul>
         
         <button class="greedy-nav__toggle hidden" type="button">
           <span class="visually-hidden">Toggle menu</span>
@@ -150,6 +184,26 @@
     </div>
   </div>
 </div>
+
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const dropdowns = document.querySelectorAll('.masthead__menu-item.dropdown');
+
+    dropdowns.forEach(dropdown => {
+      const menu = dropdown.querySelector('.dropdown-menu');
+      if (!menu) return;
+
+      dropdown.addEventListener('mouseenter', () => {
+        menu.style.setProperty('display', 'block', 'important');
+      });
+
+      dropdown.addEventListener('mouseleave', () => {
+        menu.style.setProperty('display', 'none', 'important');
+      });
+    });
+  });
+</script>
 
 
     <div class="initial-content">

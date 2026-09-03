@@ -14,7 +14,7 @@ main:
     url: /sci_comms/
   - title: "News"
     url: /news/
-  - title: "CV"
+  - title: "CV ⎘"
     url: /assets/files/CV.pdf
     target: _blank
   - title: "Contact me"
